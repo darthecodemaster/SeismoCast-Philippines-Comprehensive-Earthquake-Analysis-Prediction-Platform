@@ -1,6 +1,5 @@
 # Earthquake Analysis and Magnitude Prediction in the Philippines (2016-2025)
-Introduction
-Context
+
 The Philippines, situated along the Pacific Ring of Fire, is highly susceptible to seismic activity. Earthquakes are a frequent and significant natural hazard in the region, posing continuous threats to life and infrastructure.
 
 Problem Statement
